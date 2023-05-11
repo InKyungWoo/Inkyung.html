@@ -1,0 +1,14 @@
+body {
+    background-color: #9a859c;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 25vh;
+}
+
+.me {
+    border-radius: 30%;
+}

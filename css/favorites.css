@@ -1,0 +1,11 @@
+body {
+    background-color: #9d968b;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
