@@ -45,7 +45,7 @@ h3 {
     height: 80px;
 } 
 
-/* page 1 */
+/* page 1 - main */
 
 .one {
     background-size: cover;
@@ -68,18 +68,21 @@ h3 {
     border-radius: 30%;
 }
 
-/* page 2 */
+/* page 2 - about */
 
+.two {
+    display:contents
+}
 .intext {
     float: right;
     margin-top: 35px;
     padding-left: 50px;
 }
 .me {
-    border-radius: 30%;
+    border-radius: 20%;
 }
 
-/* page 3 */
+/* page 3 - favorites */
 
 h1 {
     color: rgb(35, 49, 35);
@@ -113,7 +116,7 @@ h1 {
     margin-top: 30px;
 }
 
-/* page 4 */
+/* page 4 - contact */
 
 .four {
     text-align: center;
