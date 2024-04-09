@@ -4,13 +4,15 @@ body {
 }
 
 h3 {
-    font-family: 'Pretendard-Thin';
+    font-family: 'Pretendard', sans-serif;
     color: #ffffff;
     text-align: center;
     font-style: italic;
-    font-weight: lighter;
+    /* font-weight: lighter; */
     margin-top: 50px;
-    font-size: 20px;
+    font-size: 19px;
+    line-height: 1.5;
+    font-weight: 100;
 }
 
 /* 상단바 */
