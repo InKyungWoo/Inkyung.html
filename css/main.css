@@ -10,8 +10,8 @@ h3 {
     font-style: italic;
     /* font-weight: lighter; */
     margin-top: 50px;
-    font-size: 19px;
-    line-height: 1.5;
+    font-size: 1rem;
+    line-height: 1.4;
     font-weight: 100;
 }
 
